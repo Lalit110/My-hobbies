@@ -39,18 +39,16 @@ p{
     z-index: 10;
 }
 .links{
-    position: fixed;
-    background: white;
-    width: 100%;
-    margin-top: 0px;
-    top: 0px;
-    z-index: 10;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: cursive;
+    font-size: 20px;
+    display: inline;
 }
 .links:hover{
     background-color: red;
 }
 a:hover{
-    color: aqua;
     cursor: pointer;
 }
 a{
